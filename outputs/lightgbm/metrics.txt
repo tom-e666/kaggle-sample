@@ -1,0 +1,6 @@
+fold_1: roc_auc=0.899407, logloss=0.520822
+fold_2: roc_auc=0.876404, logloss=0.608607
+fold_3: roc_auc=0.829479, logloss=0.823226
+fold_4: roc_auc=0.853476, logloss=0.735233
+fold_5: roc_auc=0.878673, logloss=0.584290
+overall: roc_auc=0.867488, logloss=0.654436
